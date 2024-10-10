@@ -1,6 +1,6 @@
 Transcripts Inisghts Task
 
-The aim of this project is to use an LLm to determine call transcripts:
+The aim of this project is to use an LLM to determine call transcripts:
 - Sentiment (negative, neutral or positive)
 - Outcome (issue resolved, follow-up action required)
 
