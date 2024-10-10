@@ -1,4 +1,4 @@
-Transcripts Inisghts Task
+Transcript Insights Task
 
 The aim of this project is to use an LLM to determine call transcripts:
 - Sentiment (negative, neutral or positive)
